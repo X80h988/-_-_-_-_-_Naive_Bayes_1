@@ -30,5 +30,3 @@ jupyter notebook lions_tigers_naive_bayes.ipynb
 ***
 
 machine-learning, python, naive-bayes, image-classification, data-science, computer-vision
-
-مبروك عليك المشروع الجديد! إذا احتجت أي مساعدة ثانية في الرفع أو في أكواد المشاريع، أنا معك.
